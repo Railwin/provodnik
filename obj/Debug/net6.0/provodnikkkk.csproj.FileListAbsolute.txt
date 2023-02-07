@@ -1,0 +1,15 @@
+C:\Users\railw\source\repos\provodnikkkk\bin\Debug\net6.0\provodnikkkk.exe
+C:\Users\railw\source\repos\provodnikkkk\bin\Debug\net6.0\provodnikkkk.deps.json
+C:\Users\railw\source\repos\provodnikkkk\bin\Debug\net6.0\provodnikkkk.runtimeconfig.json
+C:\Users\railw\source\repos\provodnikkkk\bin\Debug\net6.0\provodnikkkk.dll
+C:\Users\railw\source\repos\provodnikkkk\bin\Debug\net6.0\provodnikkkk.pdb
+C:\Users\railw\source\repos\provodnikkkk\obj\Debug\net6.0\provodnikkkk.csproj.AssemblyReference.cache
+C:\Users\railw\source\repos\provodnikkkk\obj\Debug\net6.0\provodnikkkk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\railw\source\repos\provodnikkkk\obj\Debug\net6.0\provodnikkkk.AssemblyInfoInputs.cache
+C:\Users\railw\source\repos\provodnikkkk\obj\Debug\net6.0\provodnikkkk.AssemblyInfo.cs
+C:\Users\railw\source\repos\provodnikkkk\obj\Debug\net6.0\provodnikkkk.csproj.CoreCompileInputs.cache
+C:\Users\railw\source\repos\provodnikkkk\obj\Debug\net6.0\provodnikkkk.dll
+C:\Users\railw\source\repos\provodnikkkk\obj\Debug\net6.0\refint\provodnikkkk.dll
+C:\Users\railw\source\repos\provodnikkkk\obj\Debug\net6.0\provodnikkkk.pdb
+C:\Users\railw\source\repos\provodnikkkk\obj\Debug\net6.0\provodnikkkk.genruntimeconfig.cache
+C:\Users\railw\source\repos\provodnikkkk\obj\Debug\net6.0\ref\provodnikkkk.dll
